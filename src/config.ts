@@ -66,12 +66,12 @@ export const profileConfig: ProfileConfig = {
 		},
 		{
 			name: "zhihu",
-			icon: "fa6-brands:zhihu", 
+			icon: "fa6-brands:zhihu",
 			url: "https://www.zhihu.com/people/luo-ling-21-91",
 		},
 		{
 			name: "bilibili",
-			icon: "fa6-brands:bilibili", 
+			icon: "fa6-brands:bilibili",
 			url: "https://space.bilibili.com/28725460",
 		},
 	],
