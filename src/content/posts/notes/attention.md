@@ -1,6 +1,6 @@
 ---
 title: 【八股】Self-Attention、Multi-Head Attention、Cross Attention详解及手撕
-published: 2026-01-08
+published: 2026-02-11
 description: "Self-Attention、Multi-Head Attention、Cross Attention详解及手撕"
 image: "./cover1.jpg"
 tags: ["dl"]
