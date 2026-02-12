@@ -3,8 +3,8 @@ title: 【八股】位置编码（Positional Encoding）
 published: 2026-02-11
 description: "Positional Encoding"
 image: "./cover2.jpg"
-tags: ["dl"]
-category: dl
+tags: ["Interview Notes"]
+category: Interview Notes
 draft: false
 ---
 ## 1. 为什么需要位置编码
