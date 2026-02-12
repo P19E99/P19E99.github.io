@@ -2,7 +2,7 @@
 title: 【八股】Decoding 相关
 published: 2026-02-12
 description: "解码采样介绍"
-image: "./cover1.jpg"
+image: "./cover3.jpg"
 tags: ["Interview Notes"]
 category: Interview Notes
 draft: false
