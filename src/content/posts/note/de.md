@@ -1,6 +1,6 @@
 ---
 title: 【八股】Encoder-only、Decoder-only 和 Encoder-Decoder
-published: 2026-02-12
+published: 2026-02-13
 description: "Encoder-only、Decoder-only 和 Encoder-Decoder"
 image: "./cover1.jpg"
 tags: ["Interview Notes"]
