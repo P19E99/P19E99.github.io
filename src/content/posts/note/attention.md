@@ -98,9 +98,9 @@ class MultiHeadAttention(nn.Module):
 	def forward(self, x):
 		batch, seq = x.shape[:2]
 		
-		q = self.q(x);
-		k = self.k(x);
-		v = self.v(x);
+		q = self.q(x)
+		k = self.k(x)
+		v = self.v(x)
 		
 		q = q.view(batch, seq, self.num_heads, self.head_dim_qk).transpose(1, 2)
 		k = k.view(batch, seq, self.num_heads, self.head_dim_qk).transpose(1, 2)
