@@ -2,7 +2,7 @@
 title: 【八股】SFT（Supervised Fine-Tuning） 与 LoRA（Low-Rank Adaptation）
 published: 2026-02-15
 description: "SFT and LoRA"
-image: "./cover5.jpg"
+image: "./cover6.jpg"
 tags: ["Interview Notes"]
 category: Interview Notes
 draft: false
