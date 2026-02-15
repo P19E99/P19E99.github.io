@@ -1,4 +1,4 @@
-# 🍥Fuwari
+# 🍥Fuwari  
 
 Un tema estático para blogs construido con [Astro](https://astro.build).
 
