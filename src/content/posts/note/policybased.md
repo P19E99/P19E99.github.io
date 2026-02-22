@@ -8,7 +8,7 @@ category: Interview Notes
 draft: false
 ---
 
-## 1. 为什么需要策略梯度
+## 1. 为什么需要策略梯度 
 
 为什么我们需要 Policy-based，Value-based的局限在哪？
 
