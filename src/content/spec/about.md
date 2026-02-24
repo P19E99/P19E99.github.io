@@ -1,42 +1,48 @@
-# About
-## 👋 Hi there, I'm P19E99
-🎓 Undergraduate Student at **Zhengzhou University**, majoring in **Information Security**
+## 👋 Hi there, I'm P19E99/PP19🐷
 
-🏅 Former competitive programmer
+🎓 Undergraduate @ Zhengzhou University | 🔐 Information Security | 🤖 AI Security Research
 
-  🥉 **ICPC Bronze Medalist** | 🥇 **CCPC Invitational Gold Medalist**
-  
-🧠 Currently researching **Adversarial Examples** in **AI Security**
-
-🎮 Rhythm game enthusiast — **maimai** player and **MyGO!!!!! / Roselia** fan
+Hi! I'm a undergraduate in an integrated BSc+MSc program, majoring in Information Security at Zhengzhou University. I used to be a competitive programming contestant, and now I'm working on **AI security–related research**. I enjoy both thinking about theoretical problems and getting my hands dirty with experiments.
 
 ---
 
-## 🚀 Research & Interests
+## 🔍 Research Interests
 
-* 🔐 **AI Security** — adversarial attacks & defenses、 model robustness
-* 🧩 **Algorithmic Thinking** — applying competitive programming rigor to research problems
-
----
-
-## 🛠️ Tech Stack
-
-* **Languages:** Python · C++
-* **Fields:** Deep Learning · AI Security · Adversarial Examples
+AI security & privacy — interested in protecting personal data from unauthorized use by generative models, with additional interest in Agent and their security, robustness, and real-world deployment.
 
 ---
 
-## 🎵 Fun Side of Me
+## 🧠 Competitive Programming
 
-* 🎼 Passionate about **Mygo!!!!!** and **Roselia**
-* 🎮 Frequent **maimai** arcade player (sometimes optimizing my loss function while playing 🎶)
-* ☕ Enjoy coding with J-pop music in the background
+Before doing research, I spent quite some time on competitive programming:
+
+* 🥉 **ICPC Asia Regional Contest** — Bronze Medal
+* 🥇 **CCPC National Invitational Contest** — Gold Medal
+
+If you're a beginner who wants to get into competitive programming but don’t know where to start (or how to train efficiently), I’m happy to help.
 
 ---
-Feel free to reach out if you're into Al Security, competitive programming, or share similar hobbies! 🥰
 
-## 📫 Get in Touch
+## 🛠 Skills
 
-📧 **Email:** [p19e99@gmail.com](p19e99@gmail.com)
-🌐 **GitHub:** [https://github.com/P19E99](https://github.com/P19E99)
+* Languages: C++, Python
+* Keywords: Machine Learning, AI Security, Fine-tuning, Privacy Protection
+* Tools: PyTorch and common ML research tools
+
+---
+
+## 🐽 Fun Facts
+
+I really like **pet pigs** 🐖 — and honestly, most things related to pigs. If you like pigs too, we’ll probably get along well.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [p19e99@gmail.com](mailto:p19e99@gmail.com)
+* 🌐 Blog: [https://P19E99.github.io](https://P19E99.github.io)
+
+Feel free to contact me if we share interests in **AI Safety & Privacy**, **Agent**, or if you need advice on competitive programming—or just want to talk about pigs 🐷.
+
+
 
