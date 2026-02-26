@@ -1,7 +1,7 @@
 ---
 title: RLHF（一）：PPO 基本流程
 published: 2026-02-26
-description: "策略梯度"
+description: "PPO 基本流程"
 image: "./cover2.jpg"
 tags: ["Interview Notes"]
 category: Interview Notes
