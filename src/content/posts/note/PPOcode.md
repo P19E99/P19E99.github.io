@@ -1,6 +1,6 @@
 ---
 title: RLHF（二）：PPO 代码以及细节补充
-published: 2026-02-26
+published: 2026-02-28
 description: "PPO 代码"
 image: "./cover1.jpg"
 tags: ["Interview Notes"]
