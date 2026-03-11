@@ -2,7 +2,7 @@
 title: RLHF（三）：从 GRPO 到 DAPO
 published: 2026-03-11
 description: "GRPO and DAPO"
-image: "./cover8.jpg"
+image: "./cover5.jpg"
 tags: ["Interview Notes"]
 category: Interview Notes
 draft: false
