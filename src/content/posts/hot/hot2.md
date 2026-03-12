@@ -2,7 +2,7 @@
 title: 力扣 hot100 - 双指针
 published: 2026-03-12
 description: "hot100"
-image: "./cover1.png"
+image: "./cover2.png"
 tags: ["hot100"]
 category: hot100
 draft: false
