@@ -1,7 +1,7 @@
 ---
 title: 【博客转载】从分布视角看 SFT、RL与OPD
 published: 2026-08-03
-description: "解码采样介绍"
+description: "从分布视角看 SFT、RL与OPD"
 image: "./cover1.jpg"
 tags: ["blog"]
 category: blog
